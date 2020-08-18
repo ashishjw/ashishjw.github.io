@@ -6,4 +6,4 @@ I have been a product owner from 2017, during this time I have been managing scr
 
 I have strong technical knowledge with 7+ years of development experience and a good hold of Agile methodologies.
 
-You can connect with me on my [Email](ashishjw@gmail.com) or [LinkedIn](https://www.linkedin.com/in/ashishjaiswal07/).
+You can connect with me on my [Email](mailto:ashishjw@gmail.com) or [LinkedIn](https://www.linkedin.com/in/ashishjaiswal07/).
