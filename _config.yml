@@ -1,4 +1,4 @@
-theme: jekyll-theme-slate
+theme: jekyll-theme-modernist
 permalink: /:categories/:year/:month/:title/
 title: AJ's Website
 description: Ashish Jaiswal Website
