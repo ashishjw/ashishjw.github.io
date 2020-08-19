@@ -1,4 +1,4 @@
-Hi there, I am a Product Management Professional with 10 years of experience in IT Industry. 
+Hi There, I am a Product Management Professional with 10 years of experience in IT Industry. 
 
 I have experience in Product Management, Agile methodologies and Software Development.
 
